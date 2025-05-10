@@ -1,0 +1,2 @@
+id	name	class	race
+1	Max	Dumb	Human
